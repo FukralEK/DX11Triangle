@@ -1,0 +1,9 @@
+x64/
+x86/
+Debug/
+Release/
+.vs/
+.vscode/
+*.exe
+*.pdb
+DX11Triangle/
